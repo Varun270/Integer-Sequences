@@ -46,7 +46,7 @@
 <tr>
   <td align=center><p>  &#9203;</p></td>
   <td><a href="./Partition Numbers">Partition Numbers</a></td>
-  <td>Python</td>
+  <td>Python, Java</td>
 </tr>
 <tr>
   <td align=center><p> &#9203;</p></td>
@@ -111,7 +111,7 @@
 <tr>
   <td align=center><p> &#9203;</p></td>
   <td><a href="./Divisor Function">Divisor function</a></td>
-  <td>Python, C++, Mark Down, C</td>
+  <td>Python, C++, Mark Down, C, JS</td>
 </tr>
 <tr>
   <td align=center><p> &#9203;</p></td>
